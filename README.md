@@ -28,9 +28,9 @@ KORG社の真空管Nutubeを搭載した、真空管らしいスタンダード�
 
 
 ### 資料
-- [Nusora+ 製作に関するブログ記事](https://drugscore.blog.fc2.com/blog-entry-314.html)
+- [Nusora+ 製作に関する記事](https://kanengomibako.github.io/pages/00314.html)
 
-- [Nusora 製作に関するブログ記事](https://drugscore.blog.fc2.com/blog-entry-304.html)
+- [Nusora 製作に関する記事](https://kanengomibako.github.io/pages/00304.html)
 
 
 
